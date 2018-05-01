@@ -18,4 +18,4 @@
 [![Design for Wellbeing](images/designForWellbeing.png)](https://medium.com/@tawadrosthomas/design-for-wellbeing-933a161d113b)
 
 ### [Design for Another World](https://medium.com/@larson.david46/design-for-another-world-6381bf414554)
-[![Design for Another World](images/designForAnotherWorld)](https://medium.com/@larson.david46/design-for-another-world-6381bf414554)
+[![Design for Another World](images/designForAnotherWorld.png)](https://medium.com/@larson.david46/design-for-another-world-6381bf414554)
