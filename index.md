@@ -1,4 +1,4 @@
-## Human and Computer Interaction Final Project
+## Project Portfolio and Design Manifesto
 
 ### About Me
 I am a Senior majoring in Robotic Engineering. I took this class to deepen my understanding of design concepts and how humans interact with computers.
